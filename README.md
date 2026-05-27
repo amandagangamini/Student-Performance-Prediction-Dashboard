@@ -106,14 +106,14 @@ Output:
 
 ### Dataset Overview
 
-![Dataset Overview](screenshots/dataset_overview 1.png)
-![Dataset Overview](screenshots/dataset_overview 2.png)
+![Dataset Overview](screenshots/dataset_overview_1.png)
+![Dataset Overview](screenshots/dataset_overview_2.png)
 
 ### Data Visualization
 
-![Data Visualization](screenshots/data_visualization 1.png)
-![Data Visualization](screenshots/data_visualization 2.png)
-![Data Visualization](screenshots/data_visualization 3.png)
+![Data Visualization](screenshots/data_visualization_1.png)
+![Data Visualization](screenshots/data_visualization_2.png)
+![Data Visualization](screenshots/data_visualization_3.png)
 
 ### Prediction Result
 
