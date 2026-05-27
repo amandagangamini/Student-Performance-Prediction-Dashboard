@@ -25,7 +25,7 @@ The dataset used in this project is the **Student Performance Dataset**.
 Important columns used in this project:
 
 | Column | Description |
-
+|---|---|
 | studytime | Weekly study time |
 | failures | Number of past class failures |
 | absences | Number of school absences |
@@ -106,11 +106,14 @@ Output:
 
 ### Dataset Overview
 
-![Dataset Overview](screenshots/dataset_overview 1.png, dataset_overview 2.png)
+![Dataset Overview](screenshots/dataset_overview 1.png)
+![Dataset Overview](screenshots/dataset_overview 2.png)
 
 ### Data Visualization
 
-![Data Visualization](screenshots/data_visualization 1.png, data_visualization 2.png, data_visualization 3.png)
+![Data Visualization](screenshots/data_visualization 1.png)
+![Data Visualization](screenshots/data_visualization 2.png)
+![Data Visualization](screenshots/data_visualization 3.png)
 
 ### Prediction Result
 
