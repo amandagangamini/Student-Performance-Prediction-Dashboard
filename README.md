@@ -125,19 +125,28 @@ Output:
 
 ```bash
 git clone your-repository-link
+```
 
 2. Open the project folder.
 
+```bash
 cd Student-Performance-Prediction-Dashboard
+```
 
 3. Install required libraries.
 
+```bash
 pip install -r requirements.txt
+```
 
 4. Run the Streamlit app.
 
+```bash
 streamlit run app.py
+```
 
 5. Open the dashboard in your browser.
 
+```bash
 http://localhost:8501
+```
